@@ -19,7 +19,7 @@
 
 ``` sh
 $ cd server
-$ mongod --dbpath 'your-database-folder-path'
+$ mongod --dbpath 'database-folder-path'
 $ node server.js
 ```
 
@@ -27,7 +27,7 @@ $ node server.js
 
 ``` sh
 $ cd server
-$ mongod --dbpath 'your-database-folder-path'
+$ mongod --dbpath 'database-folder-path'
 $ node server.js
 ```
 
