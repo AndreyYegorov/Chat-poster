@@ -4,7 +4,7 @@
 
 ## Используемые технологии
 
-- `backend` - Node.js (Express.js + Pasport.js + Mongoose)
+- `backend` - Node.js (Express.js + Passport.js + Mongoose)
 - `frontend` - Angular 2
 
 ## Функционал проекта
