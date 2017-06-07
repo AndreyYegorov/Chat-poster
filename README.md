@@ -19,6 +19,7 @@
 
 ``` sh
 $ cd server
+$ npm install
 $ mongod --dbpath 'database-folder-path'
 $ node server.js
 ```
@@ -27,12 +28,14 @@ $ node server.js
 
 ``` sh
 $ cd server
+$ npm install
 $ mongod --dbpath 'database-folder-path'
 $ node server.js
 ```
 
 ``` sh
 $ cd 'app-folder-path'
+$ npm install
 $ npm start
 ```
 
