@@ -992,7 +992,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
  * Needed for: All but Chrome, Firefox, Edge, IE11 and Safari 10
  */
 // import 'intl';  // Run `npm install --save intl`.
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/polyfills.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/polyfills.js.map
 
 /***/ }),
 

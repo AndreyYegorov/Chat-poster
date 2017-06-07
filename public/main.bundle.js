@@ -70,7 +70,7 @@ var ServerService = (function () {
     return ServerService;
     var _a;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/server.service.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/server.service.js.map
 
 /***/ }),
 
@@ -155,7 +155,7 @@ var ChatService = (function () {
     return ChatService;
     var _a;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/chat.service.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/chat.service.js.map
 
 /***/ }),
 
@@ -188,7 +188,7 @@ var DateService = (function () {
     ], DateService);
     return DateService;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/date.service.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/date.service.js.map
 
 /***/ }),
 
@@ -223,7 +223,7 @@ if (__WEBPACK_IMPORTED_MODULE_2__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["a" /* enableProdMode */])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_3__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/main.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/main.js.map
 
 /***/ }),
 
@@ -256,7 +256,7 @@ var AppComponent = (function () {
     ], AppComponent);
     return AppComponent;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/app.component.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/app.component.js.map
 
 /***/ }),
 
@@ -346,7 +346,7 @@ var AppModule = (function () {
     ], AppModule);
     return AppModule;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/app.module.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/app.module.js.map
 
 /***/ }),
 
@@ -486,7 +486,7 @@ var ChatComponent = (function () {
     return ChatComponent;
     var _a, _b, _c, _d, _e;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/chat.component.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/chat.component.js.map
 
 /***/ }),
 
@@ -560,7 +560,7 @@ var LoginComponent = (function () {
     return LoginComponent;
     var _a, _b;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/login.component.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/login.component.js.map
 
 /***/ }),
 
@@ -600,7 +600,7 @@ var FilterPipe = (function () {
     ], FilterPipe);
     return FilterPipe;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/filter.pipe.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/filter.pipe.js.map
 
 /***/ }),
 
@@ -636,7 +636,7 @@ var HighlightPipe = (function () {
     ], HighlightPipe);
     return HighlightPipe;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/highlight.pipe.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/highlight.pipe.js.map
 
 /***/ }),
 
@@ -683,7 +683,7 @@ var TransformMessage = (function () {
     ], TransformMessage);
     return TransformMessage;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/transformMessage.pipe.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/transformMessage.pipe.js.map
 
 /***/ }),
 
@@ -759,7 +759,7 @@ var SignupComponent = (function () {
     return SignupComponent;
     var _a, _b;
 }());
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/signup.component.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/signup.component.js.map
 
 /***/ }),
 
@@ -775,7 +775,7 @@ var SignupComponent = (function () {
 var environment = {
     production: false
 };
-//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/course-project/course-app/src/environment.js.map
+//# sourceMappingURL=D:/work/frontend/projects/learning/levelUp/JS/projects/chat-poster/chat-poster-app/src/environment.js.map
 
 /***/ }),
 
@@ -789,7 +789,7 @@ module.exports = ""
 /***/ 521:
 /***/ (function(module, exports) {
 
-module.exports = ".chat {\n    \n}\n.chat * {\n    box-sizing: inherit;\n}\n.chat__auth {\n\n}\n.chat__auth-list {\n    margin: 0;\n    padding: 0;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: end;\n        -ms-flex-pack: end;\n            justify-content: flex-end;\n    list-style: none;\n}\n.chat__auth-item {\n    margin: 0 0 0 10px;\n}\n.chat__auth-link {\n\n}\n\n.chat__search {\n    position: relative;\n    margin: 0 0 30px;\n}\n.chat__search:after {\n    content: \"\";\n    position: absolute;\n    top: 0;\n    right: 10px;\n    width: 12px;\n    height: 100%;\n    background: url(assets/img/icon-search.png) 0 50% no-repeat;\n}\n.chat__search-input {\n    \n}\n.chat__heading {\n\n}\n.chat__user {\n\n}\n.chat__messages {\n\n}\n.chat__messages-list {\n    margin: 0;\n    padding: 0;\n    list-style: none;\n}\n.chat__messages-list-message {\n\n}\n.chat__messages-message {\n    position: relative;\n    margin: 0 0 30px;\n    padding: 20px 20px 20px 90px;\n    border: 1px solid #ddd;\n}\n.chat__messages-message:last-child {\n    margin-bottom: 60px;\n}\n.chat__messages-message-header {\n    margin: 0 0 15px;\n    text-align: right;\n}\n.chat__messages-message-avatar {\n    position: absolute;\n    top: 20px;\n    left: 20px;\n    width: 50px;\n    width: 50px;\n    margin: 0 0 10px;\n}\n.chat__messages-message-avatar img {\n    width: 100%;\n}\n.chat__messages-message-username {\n    float: left;\n    color: #ababab;\n    font-family: \"FuturaNewBook-Reg\", Arial, Helvetica, sans-serif;\n    font-size: 22px;\n}\n.chat__messages-message-desc {\n    margin: 0 0 1em;\n    min-height: 10px;\n    font-size: 23px;\n}\n.chat__messages-message-desc:last-child {\n    margin-bottom: 0;\n}\n.chat__messages-message-pic {\n    overflow: hidden;\n    margin: 1em -20px -20px -90px;\n}\n.chat__messages-message-pic img {\n    display: block;\n    max-width: 100%;\n}\n.chat__messages-message-date {\n    color: #c3b07a;\n    font-family: \"FuturaNewBook-Reg\", Arial, Helvetica, sans-serif;\n    font-size: 11px;\n    letter-spacing: .16em;\n    text-transform: uppercase;\n}\n.chat__form {\n    \n}\n.chat__form-input-textarea {\n\n}\n.chat__form-input-file {\n\n}\n.chat__form button {\n\n}"
+module.exports = ".chat {\n    \n}\n.chat * {\n    box-sizing: inherit;\n}\n.chat__auth {\n\n}\n.chat__auth-list {\n    margin: 0;\n    padding: 0;\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: end;\n        -ms-flex-pack: end;\n            justify-content: flex-end;\n    list-style: none;\n}\n.chat__auth-item {\n    margin: 0 0 0 10px;\n}\n.chat__auth-link {\n\n}\n\n.chat__search {\n    position: relative;\n    margin: 0 0 30px;\n}\n.chat__search:after {\n    content: \"\";\n    position: absolute;\n    top: 0;\n    right: 10px;\n    width: 12px;\n    height: 100%;\n    background: url(assets/img/icon-search.png) 0 50% no-repeat;\n}\n.chat__search-input {\n    \n}\n.chat__heading {\n\n}\n.chat__user {\n\n}\n.chat__messages {\n\n}\n.chat__messages-list {\n    margin: 0;\n    padding: 0;\n    list-style: none;\n}\n.chat__messages-list-message {\n\n}\n.chat__messages-message {\n    position: relative;\n    margin: 0 0 30px;\n    padding: 20px 20px 20px 90px;\n    border: 1px solid #ddd;\n}\n.chat__messages-message:last-child {\n    margin-bottom: 60px;\n}\n.chat__messages-message-header {\n    margin: 0 0 15px;\n    text-align: right;\n}\n.chat__messages-message-avatar {\n    position: absolute;\n    top: 20px;\n    left: 20px;\n    width: 50px;\n    width: 50px;\n    margin: 0 0 10px;\n}\n.chat__messages-message-avatar img {\n    width: 100%;\n}\n.chat__messages-message-username {\n    float: left;\n    color: #ababab;\n    font-family: \"FuturaNewBook-Reg\", Arial, Helvetica, sans-serif;\n    font-size: 22px;\n}\n.chat__messages-message-desc {\n    margin: 0 0 1em;\n    min-height: 10px;\n    font-size: 23px;\n}\n.chat__messages-message-desc:last-child {\n    margin-bottom: 0;\n}\n.chat__messages-message-pic {\n    overflow: hidden;\n    margin: 1em -20px -20px -90px;\n}\n.chat__messages-message-pic img {\n    display: block;\n    width: 100%;\n}\n.chat__messages-message-date {\n    color: #c3b07a;\n    font-family: \"FuturaNewBook-Reg\", Arial, Helvetica, sans-serif;\n    font-size: 11px;\n    letter-spacing: .16em;\n    text-transform: uppercase;\n}\n.chat__form {\n    \n}\n.chat__form-input-textarea {\n\n}\n.chat__form-input-file {\n\n}\n.chat__form button {\n\n}"
 
 /***/ }),
 
